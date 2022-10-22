@@ -45,6 +45,14 @@
             if(arr[i] == n)
                 return i;
         }
+    int search(int arr[], int n) {
+        
+        int len = arr.length;
+        for(int i = 0; i < len; i++) {
+    int search(int arr[], int n) {
+        
+        int len = arr.length;
+        for(int i = 0; i < len; i++) {
         return -1;
     }
 
