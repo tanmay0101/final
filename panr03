@@ -20,7 +20,22 @@
 
         int arr[] = {5, 3, 6, 2, 1, 4};
 
-        int n = 2;// Element to be searched.class LinearSearch {
+        int n = 2;// Elemen
+        int arr[] = {5, 3, 6, 2, 1, 4};
+
+        int n = 2;// Element to be searched.
+
+        System.out.print("The Arr
+        int arr[] = {5, 3, 6, 2, 1, 4};
+
+        int n = 2;// Element to be searched.
+
+        System.out.print("The Arr
+        int arr[] = {5, 3, 6, 2, 1, 4};
+
+        int n = 2;// Element to be searched.
+
+        System.out.print("The Arrt to be searched.class LinearSearch {
 
     int search(int arr[], int n) {
         
