@@ -8,4 +8,3 @@
         int n = 2;// Element to be searched.
 
         System.out.print("The Array elements are : ");
-hacktoberfest
