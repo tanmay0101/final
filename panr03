@@ -51,7 +51,7 @@
     public static void main(String[] args) {
 
         int arr[] = {5, 3, 6, 2, 1, 4};
-
+vefvevev
         int n = 2;// Element to be searched.class LinearSearch {
 
     int search(int arr[], int n) {
