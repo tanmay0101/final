@@ -3,7 +3,7 @@
 5651519156515191565151915651519156515191
     public static void main(ddvsdvsdvsdvadvadvsvfs[] args) {class LinearSearch {
 
-    int search(int arr[], int n) {
+    int search(iqfewfwegfwsfwsfnt arr[], int n) {
         
         int len = arr.length;fgleogbjrojgodfjig
         for(int i = 0; i < len; i++) {
